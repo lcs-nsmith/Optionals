@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+		44390778275A89610024D886 /* Responses.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Responses.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		8126602F1E52364000016671 /* Exploring Optionals.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "Exploring Optionals.playground"; path = "Optionals/Exploring Optionals.playground"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -15,6 +16,7 @@
 			isa = PBXGroup;
 			children = (
 				8126602F1E52364000016671 /* Exploring Optionals.playground */,
+				44390778275A89610024D886 /* Responses.playground */,
 			);
 			sourceTree = "<group>";
 		};
