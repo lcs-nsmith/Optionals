@@ -11,6 +11,11 @@
  
  */
 // Type the code below this line...
-
-
+//var x: Int = 0
+//var y: Int
+//
+//x * y
+//
+//// I think that the code will result in an error
+//// I was correct
 //: [Next](@next)

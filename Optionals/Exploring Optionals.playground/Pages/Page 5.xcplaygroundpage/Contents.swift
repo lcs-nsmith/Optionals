@@ -19,8 +19,13 @@
  
  */
 // Type the code below this line...
-
-
+var dayOfWeek: String? = "Monday"
+if dayOfWeek != nil {
+    print("The day is \(dayOfWeek)")
+} else {
+    print("No day was provided")
+}
+// This is the result I expected because I think that nil means no value, so there forethere is nothing to print (line 24)
 /*:
  
  Now change line 22 to look like this:

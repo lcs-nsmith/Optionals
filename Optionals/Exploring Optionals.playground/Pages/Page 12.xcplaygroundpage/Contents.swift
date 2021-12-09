@@ -11,6 +11,11 @@
  
  */
 // Type the code below this line...
+//var x: Int?
+//var y: Int?
+//
+//x! * y!
 
-
+// It should crash I think, It doesn't check for a nil value
+// I was corrects
 //: [Next](@next)

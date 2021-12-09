@@ -11,8 +11,16 @@
  
  */
 // Type the code below this line...
+var x: Int? = 3
+var y: Int? = 4
 
-
+if let notNilX = x, let notNilY = y {
+    notNilX * notNilY
+} else {
+    print("Cannot compute, x, y, or both are nil")
+}
+// I think it will result a 12 because 'notNilX' multiplied by notNilY would be 12
+// I was correct
 /*:
  
  ## Summarize your learning
